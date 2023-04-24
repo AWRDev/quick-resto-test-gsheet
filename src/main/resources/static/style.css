@@ -1,0 +1,10 @@
+table td {
+    min-width: 50px;
+}
+table th  {
+    background-color: #a1d151;
+}
+table, th, td {
+  border: 2px solid #373737;
+  border-collapse: collapse;
+}
